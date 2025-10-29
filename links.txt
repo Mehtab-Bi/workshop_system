@@ -1,0 +1,11 @@
+1. User Registration Page:
+http://localhost/workshop_system/index.php
+
+2. Success Confirmation:
+http://localhost/workshop_system/success.php
+
+3. Admin Dashboard (Approve & Generate):
+http://localhost/workshop_system/admin/dashboard.php
+
+4. Sample Generated Certificate:
+http://localhost/workshop_system/certificate/cert_1.pdf
